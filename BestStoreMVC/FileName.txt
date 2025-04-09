@@ -1,0 +1,2 @@
+Add-Migration FirstMigration
+Update-Database
